@@ -17,20 +17,31 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+	<img src="images/python.svg" width="50" height="50"/>
+	<img src="images/c++.svg" width="50" height="50"/>
+	<img src="images/c.svg" width="50" height="50"/>
+	<img src="images/javascript.svg" width="50" height="50"/>
+ 	<img src="images/html.svg" width="50" height="50"/>
+	<img src="images/css.svg" width="50" height="50"/>
+	<img src="images/boostrap.svg" width="50" height="50"/>
+	<img src="images/react.svg" width="50" height="50"/><br>
+	<img src="images/nodejs.svg" width="50" height="50"/>
+	<img src="images/angular.svg" width="50" height="50"/>
+	<img src="images/django.svg" width="50" height="50"/>
+	<img src="images/flask.svg" width="50" height="50"/>
+	<img src="images/docker.svg" width="50" height="50"/>
+	<img src="images/git.svg" width="50" height="50"/>
+	<img src="images/postgresql.svg" width="50" height="50"/>
+	<img src="images/vscode.svg" width="50" height="50"/>
+	<img src="images/npm.svg" width="50" height="50"/>
+  
+
+ 
+
+
+ 
+
+
 </p>
 <br/><br/>
 
