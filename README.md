@@ -21,19 +21,24 @@
 	<img src="images/c++.svg" width="50" height="50"/>
 	<img src="images/c.svg" width="50" height="50"/>
 	<img src="images/javascript.svg" width="50" height="50"/>
- 	<img src="images/html.svg" width="50" height="50"/>
-	<img src="images/css.svg" width="50" height="50"/>
+ 	<img src="images/html.svg" width="60" height="60"/>
+	<img src="images/css.svg" width="60" height="60"/>
 	<img src="images/boostrap.svg" width="50" height="50"/>
 	<img src="images/react.svg" width="50" height="50"/><br>
-	<img src="images/nodejs.svg" width="50" height="50"/>
+	<img src="images/nodejs.svg" width="60" height="60"/>
 	<img src="images/angular.svg" width="50" height="50"/>
+	<img src="images/reactnative.png" width="45" height="50"/>
+	<img src="images/expo.png" width="80" height="50"/>
 	<img src="images/django.svg" width="50" height="50"/>
-	<img src="images/flask.svg" width="50" height="50"/>
-	<img src="images/docker.svg" width="50" height="50"/>
+	<img src="images/drf.png" width="80" height="40"/>
+	<img src="images/flask.svg" width="60" height="60"/><br>
+	<img src="images/docker.svg" width="60" height="60"/>
 	<img src="images/git.svg" width="50" height="50"/>
 	<img src="images/postgresql.svg" width="50" height="50"/>
 	<img src="images/vscode.svg" width="50" height="50"/>
 	<img src="images/npm.svg" width="50" height="50"/>
+	<img src="images/tensorflow.png" width="50" height="50"/>
+	<img src="images/arduino.png" width="60" height="40"/>
   
 
  
