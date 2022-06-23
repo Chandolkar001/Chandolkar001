@@ -1,4 +1,3 @@
-
   <p align="center">
   <kbd>
 <img src="images/Hello2.gif" width="400" height="400"/>
@@ -53,7 +52,7 @@
 
 <b>Connect with me:</b>
 
-
+![](https://komarev.com/ghpvc/?username=Chandolkar001&color=blue)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Chandolkar001)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shreyasc_01/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-chandolkar-056847214/)
