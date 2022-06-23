@@ -4,8 +4,8 @@
     </kbd>
 </p>
 
-- 🔭 I’m currently working on : <b>Music recommendation system</b>
-- 🌱 I’m currently learning : <b>Deep learning, Android app development</b>
+- 🔭 I’m currently working on : <b>Dockerization and database</b>
+- 🌱 I’m currently learning : <b>Deep learning</b>
 - 💬 Ask me about : <b>Backend development</b>
 - 📫 How to reach me: <b>chandolkarshreyas001@gmail.com</b>
 
