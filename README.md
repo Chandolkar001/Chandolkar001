@@ -20,8 +20,6 @@
 	<img src="images/c++.svg" width="50" height="50"/>
 	<img src="images/c.svg" width="50" height="50"/>
 	<img src="images/javascript.svg" width="50" height="50"/>
- 	<img src="images/html.svg" width="60" height="60"/>
-	<img src="images/css.svg" width="60" height="60"/>
 	<img src="images/boostrap.svg" width="50" height="50"/>
 	<img src="images/react.svg" width="50" height="50"/><br>
 	<img src="images/nodejs.svg" width="60" height="60"/>
