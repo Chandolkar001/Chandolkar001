@@ -1,16 +1,27 @@
-  <p align="center">
-  <kbd>
-<img src="images/Hello2.gif" width="400" height="400"/>
-    </kbd>
-</p>
-
-- 🔭 I’m currently working on : <b>Dockerization and database</b>
-- 🌱 I’m currently learning : <b>Deep learning</b>
-- 💬 Ask me about : <b>Backend development</b>
+<table align="center">
+  <tr>
+  <td valign="top"><div>
+ <kbd>
+<img src="images/Hello2.gif" width="200" height="200"/>    <p align = "right"> 
+ </kbd>
+</div></td>
+    <td valign="top"><div>
+- 🔭 I’m currently working on : <b>Dockerization and database</b><br/>
+- 🌱 I’m currently learning : <b>Deep learning</b><br/>
+- 💬 Ask me about : <b>Backend development</b><br/>
 - 📫 How to reach me: <b>chandolkarshreyas001@gmail.com</b>
+</div>
+<br/>
+<b>Connect with me:</b>
 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Chandolkar001)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shreyasc_01/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-chandolkar-056847214/)
+</td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 <p align="center" >
   <b>Languages and tools:</b>
 </p>
@@ -36,24 +47,15 @@
 	<img src="images/npm.svg" width="50" height="50"/>
 	<img src="images/tensorflow.png" width="50" height="50"/>
 	<img src="images/arduino.png" width="60" height="40"/>
-  
-
- 
-
-
- 
-
-
 </p>
 <br/><br/>
 
+<div align = "center">
 
-<b>Connect with me:</b>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chandolkar001)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=Chandolkar001&color=blue)
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Chandolkar001)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shreyasc_01/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-chandolkar-056847214/)
+</div>
+
 	
 
 
@@ -72,14 +74,6 @@
 <p>
 
 
-
-
-- ⚡ Thought: 
-<p align="center">
-  <kbd>
-<img src="images/Thought.png" width="400" height="400"></img>
-  </kbd>
-</p>
 
 <p align="center"> © 2022 Shreyas, Made with ❤️ . </p>
 
