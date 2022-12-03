@@ -49,11 +49,11 @@
 </p>
 <br/><br/>
 
-<div align = "center">
+<!-- <div align = "center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chandolkar001)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 	
 
