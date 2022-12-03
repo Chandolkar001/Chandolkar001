@@ -7,7 +7,7 @@
 </div></td>
     <td valign="top"><div>
 - 🔭 I’m currently working on : <b>Dockerization and database</b><br/>
-- 🌱 I’m currently learning : <b>Deep learning</b><br/>
+- 🌱 I’m currently learning : <b>DevOps and networks</b><br/>
 - 💬 Ask me about : <b>Backend development</b><br/>
 - 📫 How to reach me: <b>chandolkarshreyas001@gmail.com</b>
 </div>
@@ -60,7 +60,7 @@
 
 
 
-
+<!-- 
 <p align="center">
 <table align="center">
   <tr>
@@ -71,7 +71,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandolkar001&layout=compact&hide_border=true" />
   </tr>
 </table>
-<p>
+<p> -->
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandolkar001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" align = "center"></p>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandolkar001&theme=github" alt="ingenious" align = "center"/></p>
+
 
 
 
