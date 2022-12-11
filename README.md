@@ -39,7 +39,7 @@
 	<img src="images/angular.svg" width="50" height="50"/>
 	<img src="images/reactnative.png" width="45" height="50"/>
 	<img src="images/django.svg" width="50" height="50"/>
-	<img src="images/drf.png" width="80" height="40"/>
+	<img src="images/drf.png" width="60" height="40"/>
 	<img src="images/flask.svg" width="60" height="60"/><br>
 	<img src="images/docker.svg" width="60" height="60"/>
 	<img src="images/kubernetes.png" width="60" height="60"/>
