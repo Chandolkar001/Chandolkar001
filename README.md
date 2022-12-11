@@ -43,6 +43,7 @@
 	<img src="images/flask.svg" width="60" height="60"/><br>
 	<img src="images/docker.svg" width="60" height="60"/>
 	<img src="images/kubernetes.png" width="60" height="60"/>
+	<img src="images/k9s.png" width="60" height="60"/>
 	<img src="https://imgs.search.brave.com/HIa4PUErJbGS6Hg95jRfAhvujJ4aqwpnNRdga_wCzFk/rs:fit:768:745:1/g:ce/aHR0cDovL2Nsb3Vk/bWFuaWFjLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MC9taW5pa3ViZS1s/b2dvLTc2OHg3NDUu/cG5n" width="60" height="60"/>
 	<img src="images/git.svg" width="50" height="50"/>
 	<img src="images/postgresql.svg" width="50" height="50"/>
