@@ -76,8 +76,12 @@
   </tr>
 </table>
 <p> -->
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandolkar001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" align = "center"></p>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandolkar001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" align = "center"></p> -->
 
+
+<p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandolkar001&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10"/></p>
+<p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Chandolkar001&show_icons=true&locale=en&theme=radical&private_count=true"/></p>
+<p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chandolkar001&theme=radical"/></p>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandolkar001&theme=github" alt="ingenious" align = "center"/></p>
 
 
