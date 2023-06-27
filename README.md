@@ -1,28 +1,22 @@
-<!-- <table align="center">
-  <tr>
-  <td valign="top"><div>
- <kbd>
-<img src="images/Hello2.gif" width="200" height="200"/>    <p align = "right"> 
- </kbd>
-</div></td>
-    <td valign="top"><div>
-- 🔭 I’m currently working on : <b>Dockerization and database</b><br/>
-- 🌱 I’m currently learning : <b>DevOps and networks</b><br/>
-- 💬 Ask me about : <b>Backend development</b><br/>
-- 📫 How to reach me: <b>chandolkarshreyas001@gmail.com</b>
-</div>
-<br/>
+<p align="justify">
+<h4>Welcome to my GitHub profile! I'm a versatile developer passionate about software development and robotics. I thrive at the intersection of code and robotics, combining my expertise in building robust applications and designing innovative robotic systems.</h4>
+</p>
 
-</td>
-  </tr>
-</table> -->
- 
+Software Developer
+```
+- A full-stack developer proficient in both front-end and back-end technologies, adept at building scalable applications.
+- Experienced in efficiently managing development and production deployment on various cloud platforms.
+```
+Robotics Developer
+```
+- I possess a strong command of the Robot Operating System (ROS) and its various components.
+- I am a passionate firmware developer, with experience in working with ESP32, Arduino, Atmega, and Raspberry Pi.
+- My expertise also lies in generating test codes for integrating hardware with firmware.
+```
+ <p>Open to collaborate on interesting projects.</p>
  
 ```
-- Aspiring engineer in DevOps.
-- Right now, I'm interested in cloud computing, computer networks, and security.
-- Open to collaborate in interesting projects.
-- e-mail: chandolkarshreyas001@gmail.com
+email-to: chandolkarshreyas001@gmail.com
 ```
 <br/>
 <p align="center" >
