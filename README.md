@@ -49,9 +49,9 @@ email-to: chandolkarshreyas001@gmail.com
   	<img src="images/gazebo.png" width="50" height="50"/>
   	<img src="images/rviz.png" width="77" height="50"/>
   	<img src="images/linux.png" width="41" height="50"/>
-  	<img src="images/Raspi.png" width="50" height="50"/>
-  	<img src="images/ESP.png" width="181" height="50"/>
-  	<img src="images/KiCad.png" width="50" height="50"/>
+  	<img src="images/raspi.png" width="50" height="50"/>
+  	<img src="images/esp.png" width="181" height="50"/>
+  	<img src="images/kicad.png" width="50" height="50"/>
   	<img src="images/fusion360.png" width="200" height="50"/>
 </p>
 <br/><br/>
