@@ -13,7 +13,7 @@ Robotics Developer
 - I am a passionate firmware developer, with experience in working with ESP32, Arduino, Atmega, and Raspberry Pi.
 - My expertise also lies in generating test codes for integrating hardware with firmware.
 ```
- <p>Open to collaborate on interesting projects.</p>
+ <p>Open to collaborating on interesting projects.</p>
  
 ```
 email-to: chandolkarshreyas001@gmail.com
@@ -43,8 +43,16 @@ email-to: chandolkarshreyas001@gmail.com
 	<img src="images/postgresql.svg" width="50" height="50"/>
 	<img src="images/vscode.svg" width="50" height="50"/>
 	<img src="images/npm.svg" width="50" height="50"/>
-	<img src="images/tensorflow.png" width="50" height="50"/>
+	<img src="images/tensorflow.png" width="50" height="50"/><br/>
 	<img src="images/arduino.png" width="60" height="40"/>
+	<img src="images/ros.png" width="141" height="50"/>
+  	<img src="images/gazebo.png" width="50" height="50"/>
+  	<img src="images/rviz.png" width="77" height="50"/>
+  	<img src="images/linux.png" width="41" height="50"/>
+  	<img src="images/Raspi.png" width="50" height="50"/>
+  	<img src="images/ESP.png" width="181" height="50"/>
+  	<img src="images/KiCad.png" width="50" height="50"/>
+  	<img src="images/fusion360.png" width="200" height="50"/>
 </p>
 <br/><br/>
 
