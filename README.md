@@ -1,18 +1,10 @@
 <p align="justify">
-<h4>Welcome to my GitHub profile! I'm a versatile developer passionate about software development and robotics. I thrive at the intersection of code and robotics, combining my expertise in building robust applications and designing innovative robotic systems.</h4>
+<h4>Hi! I'm a versatile developer passionate about software development and robotics.</h4>
 </p>
 
-Software Developer
-```
-- A full-stack developer proficient in both front-end and back-end technologies, adept at building scalable applications.
-- Experienced in efficiently managing development and production deployment on various cloud platforms.
-```
-Robotics Developer
-```
-- I possess a strong command of the Robot Operating System (ROS) and its various components.
-- I am a passionate firmware developer, with experience in working with ESP32, Arduino, Atmega, and Raspberry Pi.
-- My expertise also lies in generating test codes for integrating hardware with firmware.
-```
+- Current research interests: Robotics and Computer Networks
+- Learning: ESP-IDF and GO 
+ 
  <p>Open to collaborating on interesting projects.</p>
  
 ```
